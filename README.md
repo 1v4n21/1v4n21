@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-ZIHAHAHAHAHA
 
 <!--
 **1v4n21/1v4n21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
