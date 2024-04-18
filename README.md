@@ -25,17 +25,17 @@
 
 
 <!--Inicio del intro-->
-- 🔭 Actualmente estoy trabajando en entorno .NET con **DevExpress, ASP.NET Core, Blazor, C#, MySQL**
+- 🔭 Actualmente estoy trabajando en entorno .NET con **DevExpress, ASP.NET Core, Blazor, C#, MySQL**.
 
-- 🌱 Actualmente estoy aprendiendo **Blazor para el Desarrollo de Software de gestión de PYMES**
+- 🌱 Actualmente estoy aprendiendo **Blazor para el Desarrollo de Software de gestión de PYMES**.
 
 - ☁️ Tengo también gran interés en el campo de la ciberseguridad.
 
-- 💬 Pregúntame sobre **DevExpress, ASP.NET Core, Blazor, C#, MySQL**
+- 💬 Pregúntame sobre **DevExpress, ASP.NET Core, Blazor, C#, MySQL**.
 
-- 📫 No dudes en comunicarte conmigo **ivanmartinezzs29@gmail.com**
+- 📫 No dudes en comunicarte conmigo **ivanmartinezzs29@gmail.com**.
 
-- 🏠 No dudes en enviarme un **👋** en Discord – [martinezzs29#9411] ¡mi nombre de usuario!
+- 🏠 No dudes en enviarme un **👋** en Discord – [martinezzs29#9411] ¡mi nombre de usuario!.
 <!--Final del intro-->
 
 <br>
