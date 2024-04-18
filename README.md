@@ -83,7 +83,7 @@
 <!--tecnologias-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,py,html,css,js,cs,git,github,bootstrap,tailwind,mysql,discord,docker,linux,nginx,visualstudio,vscode,idea,notion&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,py,html,css,js,cs,git,github,bootstrap,tailwind,mysql,docker,visualstudio,vscode,idea,notion&perline=14" />
   </a>
 </p>
 
