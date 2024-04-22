@@ -4,7 +4,7 @@
 <!--h1 con borde-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Iván.</h1></summary>
+    <summary><h1 style="display: inline-block">Hello 👋, I'm Ivan.</h1></summary>
   </ul>
 </div>
 
@@ -19,23 +19,23 @@
 <!--h2 con borde-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Bienvenido/a!!, este es mi perfil de GitHub 🏠</h2></summary>
+    <summary><h2 style="display: inline-block">Welcome!!, this is my GitHub profile 🏠</h2></summary>
   </ul>
 </div>
 
 
 <!--Inicio del intro-->
-- 🔭 Actualmente estoy trabajando en entorno .NET con **DevExpress, ASP.NET Core, Blazor, C#, MySQL**.
+- 🔭 I am currently working in a .NET environment with **DevExpress, ASP.NET Core, Blazor, C#, MySQL**.
 
-- 🌱 Actualmente estoy aprendiendo **Blazor para el Desarrollo de Software de gestión de PYMES**.
+- 🌱 I am currently learning **Blazor for SME Management Software Development**.
 
-- ☁️ Tengo también gran interés en el campo de la ciberseguridad.
+- ☁️ I also have great interest in the field of cybersecurity.
 
-- 💬 Pregúntame sobre **DevExpress, ASP.NET Core, Blazor, C#, MySQL**.
+- 💬 Ask me about **DevExpress, ASP.NET Core, Blazor, C#, MySQL**.
 
-- 📫 No dudes en comunicarte conmigo **ivanmartinezzs29@gmail.com**.
+- 📫 Feel free to contact me **ivanmartinezzs29@gmail.com**.
 
-- 🏠 No dudes en enviarme un **👋** en Discord – [martinezzs29#9411] ¡mi nombre de usuario!.
+- 🏠 Feel free to send me a **👋** on Discord – [martinezzs29#9411] my username!.
 <!--Final del intro-->
 
 <br>
@@ -77,7 +77,7 @@
 <!--h1 con borde-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tecnologias-->
@@ -92,7 +92,7 @@
 <!--h2 con borde-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Contacta Conmigo🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Contact Me🤝</h2></summary>
   </ul>
 </div>
 
