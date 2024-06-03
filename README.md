@@ -1,5 +1,3 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
-
 <!--h1 con borde-->
 <div id="user-content-toc">
   <ul align="center">
@@ -7,13 +5,7 @@
   </ul>
 </div>
 
-
-<!--- serpiente -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif)
 
 <!--h2 con borde-->
 <div id="user-content-toc">
