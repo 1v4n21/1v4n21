@@ -14,7 +14,6 @@
   </ul>
 </div>
 
-
 <!--Inicio del intro-->
 - 🔭 I am currently working in a .NET environment with **DevExpress, ASP.NET Core, Blazor, C#, MySQL**.
 
